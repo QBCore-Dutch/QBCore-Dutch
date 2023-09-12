@@ -2,3 +2,4 @@
 
 Welkom bij QBCore dutch dit zijn alle scripts van qbcore vertaald naar nederlands
 
+zorg ervoor dat in de server cfg je dit ```setr qb_locale "en"``` naar ```setr qb_locale "nl"``` veranderd zodat alles nederlands is
